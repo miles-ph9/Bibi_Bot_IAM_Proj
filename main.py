@@ -3,7 +3,7 @@
 import uvicorn
 from fastapi import FastAPI
 
-
+# Testing area
 x = "Bibi 1.0v is booting up..."
 
 #Banner section
